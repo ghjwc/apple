@@ -37,19 +37,20 @@ body {
 
 
 #banner {
-    padding: 25px;
+    padding: 20px;
     background-color: #f5f5f5;
     text-align: center;
     font-size: 13px;
 }
 
 #banner img {
-    width: 110px;
+    width: 120px;
+    height: 30px;
     vertical-align: middle;
 }
 
 #banner a {
-    padding-left: 12px;
+    padding-left: 13px;
     text-decoration: none;
     color: blue;
 }
